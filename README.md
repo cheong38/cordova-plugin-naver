@@ -1,6 +1,3 @@
-# Note
-기존 GwonHyeok/cordova-plugin-naver 에서 최근 cordova-android@7.1.4 업데이트를 반영한 버전입니다.
-
 # cordova-plugin-naver
 > 네이버 SDK를 Cordova에서 사용할 수 있도록 만든 플러그인 입니다
 
