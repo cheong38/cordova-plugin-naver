@@ -13,16 +13,13 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "author": "GHyeok",
+  "author": "Woojin",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GwonHyeok/cordova-plugin-naver.git"
+    "url": "git+https://github.com/cheong38/cordova-plugin-naver.git"
   },
-  "bugs": {
-    "url": "https://github.com/GwonHyeok/cordova-plugin-naver/issues"
-  },
-  "homepage": "https://github.com/GwonHyeok/cordova-plugin-naver#readme",
+  "homepage": "https://github.com/cheong38/cordova-plugin-naver#readme",
   "engines": [
     {
       "name": "cordova-android",
